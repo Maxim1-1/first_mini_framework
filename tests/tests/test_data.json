@@ -1,0 +1,30 @@
+{
+  "BUTTON_TO_SEE_TEXT": "You clicked a button",
+  "ALERT_BUTTON_CONFIRM_TEXT": "Do you confirm action?",
+  "CONFIRM_TEXT_BUTTON_AFTER_CLICK": "You selected Ok",
+  "ALERT_BUTTON_PROMT": "Please enter your name",
+  "PARENT_FRAME": "Parent frame",
+  "CHILD_FRAME": "Child Iframe",
+  "BROWSER_WINDOWS_IN_MENU": "Browser Windows",
+  "SAMPLE_WINDOW": "sample",
+  "Users": [
+    [
+      "Donald",
+      "Donald",
+      24,
+      "random@mail.ru",
+      22222222,
+      "Legal"
+    ],
+    [
+      "BIG",
+      "JOHNBIG",
+      244,
+      "bigrandom@mail.ru",
+      2222,
+      "Legal"
+    ]
+  ]
+}
+
+
